@@ -1,0 +1,15 @@
+{
+"compilerOptions": {
+"moduleDetection": "force",
+"module": "ESNext",
+"target": "ES6",
+"rootDir": "./2ª_UN",
+"outDir": "./dist",
+"strict": true,
+"esModuleInterop": true,
+"skipLibCheck": true,
+"forceConsistentCasingInFileNames": true,
+},
+"include": ["2ª_UN/**/*"],
+"exclude": ["node_modules", "dist"]
+}
